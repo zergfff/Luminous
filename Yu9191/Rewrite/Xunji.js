@@ -2,7 +2,6 @@
 训记 
 [rewrite_local]
 #训记vip
-^https:\/\/api\.xunjiapp\.cn\/whole_user_info url script-response-body
 [mitm]
 hostname = api.xunjiapp.cn
 */
