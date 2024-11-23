@@ -1,7 +1,5 @@
 /*
 训记 
-[rewrite_local]
-#训记vip
 [mitm]
 hostname = api.xunjiapp.cn
 */
